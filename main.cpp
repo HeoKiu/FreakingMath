@@ -20,7 +20,7 @@ drawer gameDraw(gWindow, gRenderer);
 Audio openSound;
 Audio overSound;
 Audio defuseSound;
-Audio inGameSound;sadhsahdsahjdsad
+Audio inGameSound; 
 
 void printIntro(){
     gameDraw.initWindow();
